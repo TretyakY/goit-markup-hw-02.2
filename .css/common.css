@@ -20,8 +20,7 @@
 --deep-bg-cl: #404BBF;
 }
 
-/* reset styles */
-
+/* reset style*/
 .list {
 list-style: none;
 color: currentColor;
@@ -166,5 +165,3 @@ background-color: var(--accent-bg-cl);
     text-transform: uppercase;
     color: var(--light-wht-txt-cl);
     }
-
-
